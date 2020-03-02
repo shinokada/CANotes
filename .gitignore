@@ -42,6 +42,3 @@ config.rst
 package-lock.json
 geckodriver.log
 *.iml
-
-# for Jupytext ignoring ipynb files
-*.ipynb
